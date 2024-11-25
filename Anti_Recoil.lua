@@ -35,7 +35,7 @@
 
 --------------------------------------------- User Settings -------------------------------------------------------
 
-local Activate_Key        = "numlock"     -- Turn-On numlock to active the script
+local Activate_Key        = "insert"     -- Turn-On insert to active the script
 local Auto_ADS_Key        = "capslock"    -- Turn-On capslock to active Auto-ADS when you are firing
 
 local Fire_key            = 1	          -- Your Mouse Left-Click (Fire)
